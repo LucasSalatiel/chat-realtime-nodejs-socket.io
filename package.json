@@ -1,0 +1,25 @@
+{
+  "name": "chat-realtime-nodejs-socket.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasSalatiel/chat-realtime-nodejs-socket.io.git"
+  },
+  "keywords": [],
+  "author": "Lucas Salatiel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucasSalatiel/chat-realtime-nodejs-socket.io/issues"
+  },
+  "homepage": "https://github.com/LucasSalatiel/chat-realtime-nodejs-socket.io#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "socket.io": "^2.2.0"
+  }
+}
